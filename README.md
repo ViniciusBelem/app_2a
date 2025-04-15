@@ -39,8 +39,8 @@ Antes de começar, verifique se possui:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/sistema-cadastro-pets.git
-cd sistema-cadastro-pets
+git clone https://github.com/ViniciusBelem/app_2a.git
+cd app_2a
 ```
 
 2. Suba o ambiente com o Sail:
